@@ -110,3 +110,8 @@ flutter build ios --release
 - Styled with Material Design
 
 Built with ❤️ on Rocket.new
+
+## Backend Services
+
+This repository also contains example backend services for Business Bots.
+Check the `services` directory for a NestJS API with Docker and Helm setup.

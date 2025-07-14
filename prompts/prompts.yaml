@@ -1,0 +1,10 @@
+prompts:
+  - service: whatsapp_bot
+    description: "Automate WhatsApp conversations for customer support"
+    example: "Send welcome message when user starts chat"
+  - service: email_automation
+    description: "Automate email sequences for sales"
+    example: "Send follow-up email after 2 days"
+  - service: nfc_tools
+    description: "Use NFC tags to trigger workflows"
+    example: "Open product catalog when tag is scanned"
