@@ -110,3 +110,10 @@ flutter build ios --release
 - Styled with Material Design
 
 Built with ❤️ on Rocket.new
+
+## Business Bots Architecture
+
+For an overview of the recommended microservice architecture and deployment
+strategy for the Business Bots platform, see
+[docs/business_bots_architecture.md](docs/business_bots_architecture.md).
+
